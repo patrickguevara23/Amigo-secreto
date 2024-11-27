@@ -7,34 +7,55 @@ A predição é feita a partir de variáveis clínicas como idade, índice de ma
 Os valores de saída (target) estão definidos como:
 
 0: Não possui diabetes
+
 1: Possui diabetes
 
 ⚙️ Técnicas e Algoritmos Utilizados
+
 Modelos de Machine Learning:
+
 K-Nearest Neighbors (KNN)
+
 Árvore de Decisão
+
 Modelo Dummy (baseline)
+
 Support Vector Classification (SVC)
 
 Pré-processamento:
+
 Limpeza de dados
+
 Tratamento de valores ausentes
+
 Escalonamento de variáveis (quando necessário)
 
 🛠️ Ferramentas e Tecnologias
+
 Linguagem: Python
+
 Bibliotecas:
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Statsmodel
+
 Scipy
 
 🧪 Estrutura do Projeto
+
 ├── data/             # Conjunto de dados utilizado no projeto
+
 ├── notebooks/        # Notebooks com análise exploratória e modelos
+
 ├── models/           # Modelos treinados e scripts de avaliação
+
 ├── requirements.txt  # Bibliotecas necessárias
+
 └── README.md         # Documentação do projeto
 
 
