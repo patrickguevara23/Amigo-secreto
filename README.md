@@ -30,6 +30,8 @@ Tratamento de valores ausentes
 
 Escalonamento de variáveis (quando necessário)
 
+
+
 🛠️ Ferramentas e Tecnologias
 
 Linguagem: Python
@@ -45,6 +47,8 @@ Scikit-learn
 Statsmodel
 
 Scipy
+
+
 
 🧪 Estrutura do Projeto
 
