@@ -54,11 +54,7 @@ Scipy
 
 ├── data/             # Conjunto de dados utilizado no projeto
 
-├── notebooks/        # Notebooks com análise exploratória e modelos
-
-├── models/           # Modelos treinados e scripts de avaliação
-
-├── requirements.txt  # Bibliotecas necessárias
+├── Projeto_Diabetes.ipynb/        # Notebooks com análise exploratória e modelos
 
 └── README.md         # Documentação do projeto
 
